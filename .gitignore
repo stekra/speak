@@ -76,3 +76,8 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+sample.txt
+sample-1.txt
+sample-2.txt
+numbers.txt
