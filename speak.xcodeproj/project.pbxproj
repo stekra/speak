@@ -43,7 +43,7 @@
 		53AE73DE2783B4DC00251C75 = {
 			isa = PBXGroup;
 			children = (
-				53AE73E92783B4DC00251C75 /* speak */,
+				53AE73E92783B4DC00251C75 /* src */,
 				53AE73E82783B4DC00251C75 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -56,12 +56,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		53AE73E92783B4DC00251C75 /* speak */ = {
+		53AE73E92783B4DC00251C75 /* src */ = {
 			isa = PBXGroup;
 			children = (
 				53AE73EA2783B4DC00251C75 /* main.swift */,
 			);
-			path = speak;
+			path = src;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
