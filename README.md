@@ -1,6 +1,6 @@
 # speak [--softly]
 
-`echo` feel too cold? `cat` too mechanical? `speak` is a little command line program that prints text in a more human cadence.
+`echo` is too cold; `cat` too mechanical. `speak` is a little command line program that prints text in a more human cadence.
  
 ![](cadence.gif)  
 
